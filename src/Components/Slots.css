@@ -1,0 +1,26 @@
+.slots {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    max-width: 100%;
+    margin: 30px auto;
+    grid-gap: 1rem;
+  }
+  
+  /* .slots>div{
+    background-color: gray;
+    height:1rem;
+    text-align: center;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin: 0px 20px 0px 20px;
+  }
+  
+  .slots>div>p{
+      margin-top:1rem;
+    border: 1px solid black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  } */
